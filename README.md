@@ -6,7 +6,7 @@ Hello guys
 
 [FIGMA LINK]( https://www.figma.com/proto/YVvcFgcEx4MIvXoKYpZplD/1FIT4ALL?node-id=96-40&p=f&t=NBpPklQz0xqrXvq7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
-[GITHUB LINK WITH CODE](https://github.com/Whale92130/onefitforall)
+[GITHUB LINK WITH CODE]((https://github.com/Whale92130/onefitforallvite)
 
 [Live Site](https://9000-idx-onefitforall-1744732538320.cluster-2xfkbshw5rfguuk5qupw267afs.cloudworkstations.dev/)
 
