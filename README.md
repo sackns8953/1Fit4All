@@ -8,6 +8,6 @@ Hello guys
 
 [GITHUB LINK WITH CODE](https://github.com/Whale92130/onefitforallvite)
 
-[Live Site](https://fit4all-38b90.web.app/sign-in)
+[Live Site](https://fit4all-38b90.web.app)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXxg9ZHh97_y6a6g5m21MpnIehuVEejcTJpw&amp;s" alt="juju 💰 on X: &quot;Lebron James got one of the most unexpected yearbook  pictures of all time 😭 https://t.co/eaMWa7RWMe&quot; / X"/>
